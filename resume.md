@@ -5,8 +5,9 @@ Glenmont, NY 12077
 arthurhuang256@gmail.com
 EDUCATION
 
-Northeastern University, Boston,  MA - Class of 2028
-
+Northeastern University, Boston,  MA 
+Class of 2028
+Major: Computer Science
 
 Blair Academy, Blairstown, NJ — Class of 2024
 SEPTEMBER 2021 - Present
