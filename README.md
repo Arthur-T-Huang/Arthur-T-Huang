@@ -2,7 +2,7 @@
 
 Programming Languages :  Python, Java, Racket, C++
 
-Frameworks: scikit-learn, streamlit
+Frameworks: NumPy, scikit-learn, streamlit, Plotly, Matplotlib
 
 
 
