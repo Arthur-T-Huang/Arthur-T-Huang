@@ -1,11 +1,12 @@
 ## Hi there my name is Arthur Huang, a 19 year old computer science major with an electrical engineering minor at Northeastern University. I am a very adventurous and team oriented individual who is eager to embark on new projects and opportunites regarding software development and artificial intelligence.
 
-#Programming Languages :  Python, Java, Racket, C++
+Programming Languages :  Python, Java, Racket, C++
 
-#Frameworks: scikit-learn, streamlit
+Frameworks: scikit-learn, streamlit
 
 
-#Linkedin: www.linkedin.com/in/arthur-huang-a2920730a
+
+Linkedin: www.linkedin.com/in/arthur-huang-a2920730a
 <!--
 **Arthur-T-Huang/Arthur-T-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
