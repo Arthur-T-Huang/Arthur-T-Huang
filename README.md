@@ -41,6 +41,11 @@ ViTal Hackathon Musculoskeletal Disorders Symptom Checker | JavaScript | Team Me
   * Begins with 5 preliminary questions and then introduces further in-depth prompts, resulting in the top 3 conditions that matched the users' responses, along with percent matches, preventative care measures, and links to specific resources about each disease
   * Achieved 1st place and received positive feedback from judges about the knowledge gained from the site
 
+Json Data Reformatter | Java | May 2025
+* Created a Java program that reorganizes sample company, role, and reviews data from a given URL.
+* Begins with retrieving Json data from the URL using a Postman GET request, converts the data into Java objects and restructures these objects using Java functions. Converts restructured objects back into Json and sends the data back to the original URL with a Postman POST request.
+
+
 ## Connect
 
   * Email: huang.arth@northeastern.edu
