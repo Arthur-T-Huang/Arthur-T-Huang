@@ -1,4 +1,6 @@
-## Hi there my name is Arthur Huang, a computer science major with an electrical engineering minor at Northeastern University. I am a very adventurous and team oriented individual who is eager to embark on new projects and opportunites regarding software development and artificial intelligence.
+## Hi there my name is Arthur Huang!
+
+I am a computer science major with an electrical engineering minor at Northeastern University. I am a very adventurous and team oriented individual who is eager to embark on new projects and opportunites regarding software development and artificial intelligence.
 
 ## Technologies and Tools:  
 
