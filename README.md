@@ -10,6 +10,8 @@ I am a computer science major with an electrical engineering minor at Northeaste
 ![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=000000)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-f7b440?style=for-the-badge&logo=scikit-learn&logoColor=40aef7)
+![Plotly](https://img.shields.io/badge/Plotly-FFFFFF?style=for-the-badge&logo=Plotly&logoColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-055f9c?style=for-the-badge&logo=Plotly&logoColor=FFFFFF)
 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
