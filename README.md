@@ -1,8 +1,18 @@
 ## Hi there my name is Arthur Huang!
 
-I am a computer science major with an electrical engineering minor at Northeastern University. I am a very adventurous and team oriented individual who is eager to embark on new projects and opportunites regarding software development and artificial intelligence.
+I am a computer science major with an electrical engineering minor at Northeastern University. I am a very adventurous and team oriented individual who is eager to embark on new projects and opportunites regarding software development, machine learning, artificial intelligence, and robotics.
 
 ## Technologies and Tools:  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-850808?style=for-the-badge&logo=racket&logoColor=020559)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=000000)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Python, Java, Racket, C++, Pandas, NumPy, scikit-learn, streamlit, Plotly, Matplotlib, Docker, Postman
 
