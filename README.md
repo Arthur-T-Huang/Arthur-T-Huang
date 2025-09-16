@@ -19,7 +19,6 @@ I am a computer science major with an electrical engineering minor at Northeaste
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Python, Java, Racket, C++, Pandas, NumPy, scikit-learn, streamlit, Plotly, Matplotlib, Docker, Postman
 
 ## Experience: 
 
