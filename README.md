@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:012A4A,25:01497C,50:2A6F97,75:468FAF,100:A9D6E5&height=250&section=header&text=Hi%20there,%20my%20name%20is%20Arthur%20Huang!&fontSize=40&fontColor=A9D6E5&animation=fadeIn)
-
 I am a computer science major with an electrical engineering minor at Northeastern University. I am a very adventurous and team oriented individual who is eager to embark on new projects and opportunites regarding software development, machine learning, artificial intelligence, and robotics.
 
 ## Technologies and Tools:  
