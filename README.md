@@ -22,7 +22,15 @@ I am a computer science major with an electrical engineering minor at Northeaste
 
 ## Experience: 
 
-Khoury College | Northeastern University, Boston, MA | Teaching Assistant for Introduction to Program Design and Implementation | September 2025 – present
+Leidos, Gaithersburg, MD | Incoming Systems Engineering Intern | Start Date: June 2026
+  * Develop system architecture, concept development, and risk management on IRAD air traffic control projects.
+  * Support the design and production of program software for aircraft safety and efficiency across world airspace.
+
+Harvard University Information Technology | Harvard University, Cambridge, MA |	Technology Engineer Co-op | January. 2026 – Present
+  *	Develop and implement solutions to various technological issues throughout the departments and labs of Harvard University.
+  * Address and service online tickets for technical problems from students, faculty, and alumni network of Harvard University.
+
+Khoury College | Northeastern University, Boston, MA | Teaching Assistant for Introduction to Program Design and Implementation | September 2025 – December 2025
 
   * Lead weekly class labs for 40 students, teaching the design process and coding fundamentals
   * Provide detailed feedback on homework assignments, tests, and student questions during office hours.
