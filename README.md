@@ -22,7 +22,7 @@ I am a computer science major with an electrical engineering minor at Northeaste
 
 ## Experience: 
 
-Leidos, Gaithersburg, MD | Incoming Systems Engineering Intern | Start Date: June 2026
+Leidos, Gaithersburg, MD | Systems Engineering Intern | Start Date: June 2026
 
   * Complete software and systems tickets on the Common Baseline (CB) service for LCAP (Leidos Common Automation
 Platform), the SkyLine-X–based solution consolidating the FAA's ERAM and STARS systems.
