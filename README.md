@@ -26,15 +26,15 @@ Leidos, Gaithersburg, MD | Incoming Systems Engineering Intern | Start Date: Jun
 
   * Complete software and systems tickets on the Common Baseline (CB) service for LCAP (Leidos Common Automation
 Platform), the SkyLine-X–based solution consolidating the FAA's ERAM and STARS systems.
-• Implemented a service health check using SNMP (snmpget) that polls 14 services and up to 20 sub-components each at a
+  * Implemented a service health check using SNMP (snmpget) that polls 14 services and up to 20 sub-components each at a
 user-configurable interval, reporting availability across the platform.
-• Implemented configuration schemas for the CB test harness and extended it for compatibility across multiple platforms.
-• Deployed components to a Kubernetes cluster and produced evidence artifacts verifying requirement compliance.
+  * Implemented configuration schemas for the CB test harness and extended it for compatibility across multiple platforms.
+  * Deployed components to a Kubernetes cluster and produced evidence artifacts verifying requirement compliance.
 
 Harvard University Information Technology | Harvard University, Cambridge, MA |	Technology Engineer Co-op | January 2026 – May 2026
   *	Addressed technological issues in multi-factor authentication, network connectivity, and user security throughout the
 departments and labs of Harvard University, diagnosing platforms such as Okta Verify, Harvard Key, and Microsoft 365.
-• Serviced online tickets for technical problems from 50,000+ students, faculty, and alumni of Harvard University.
+  * Serviced online tickets for technical problems from 50,000+ students, faculty, and alumni of Harvard University.
 
 Khoury College | Northeastern University, Boston, MA | Teaching Assistant for Introduction to Program Design and Implementation | September 2025 – December 2025
 
